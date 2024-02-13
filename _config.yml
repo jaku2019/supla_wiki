@@ -6,6 +6,3 @@ url: https://jaku2019.github.io/Supla_wiki
 
 aux_links:
   Template Repository: https://jaku2019.github.io/Supla_wiki
-
-plugins:
-  - jekyll-default-layout
