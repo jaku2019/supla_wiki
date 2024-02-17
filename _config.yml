@@ -5,5 +5,13 @@ color_scheme: supla
 
 url: https://jaku2019.github.io/Supla_wiki
 
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edytuj tę stronę na Githubie"
+gh_edit_repository: "https://github.com/jaku2019/supla_wiki" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
 aux_links:
   Pomoc: https://forum.supla.org
