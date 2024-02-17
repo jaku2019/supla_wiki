@@ -1,0 +1,18 @@
+$color-scheme: supla;
+$body-background-color: $white !default;
+$body-heading-color: #fafbfc;
+$body-text-color: $grey-lt-300;
+$link-color: #00d151;
+$nav-child-link-color: $grey-dk-000;
+$sidebar-color: #fafbfc;
+$base-button-color: $grey-dk-250;
+$btn-primary-color: #00d151;
+$code-background-color: $grey-lt-000 !default;
+$code-linenumber-color: $grey-lt-000 !default;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$search-result-preview-color: $grey-dk-000;
+$border-color: $grey-dk-200;
+
+@import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
