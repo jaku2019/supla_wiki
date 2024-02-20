@@ -6,7 +6,7 @@ nav_order: 2
 
 W sekcji Moja Supla wyświetlają się wszystkie urządzenia przypisane do konta Supla (urządzenie może być przypisane do jednego konta jednocześnie).
 
-# Rejestracja urządzeń
+## Rejestracja urządzeń
 
 Urządzenie można dodać do konta Supla na dwa sposoby: manualnie lub za pomocą kreatora w aplikacji mobilnej SUPLA. W przypadku tego pierwszego należy
 
@@ -22,7 +22,7 @@ W przypadku niewyłączenia rejestracji urządzeń, dezaktywuje się ona automat
 
 Metoda wprowadzania danych może różnić się w zależności od urządzenia, jednak zazwyczaj ogranicza się do edycji kilku linijek kodu lub przełączenia sprzętu w tryb konfiguracyjny i uzupełnienia odpowiednich pól.
 
-# Zmiana ustawień wewnętrznych urządzenia \[dotyczy sprzętu “DIY”]
+## Zmiana ustawień wewnętrznych urządzenia \[dotyczy sprzętu “DIY”]
 
 Jeśli po rejestracji urządzenia w Cloudzie zmieniona została liczba kanałów urządzenia (np. zmniejszono liczbę dostępnych przekaźników w GUI Genericu) konieczne jest ponowne zarejestrowanie modułu:
 
