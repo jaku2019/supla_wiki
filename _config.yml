@@ -20,5 +20,5 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 aux_links:
   Pomoc: https://forum.supla.org
 
-plugins:
-  - magnific-popup-rails
+#plugins:
+#  - magnific-popup-rails
