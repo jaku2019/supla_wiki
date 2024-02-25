@@ -6,7 +6,7 @@ nav_order: 1
 
 Supla to polski system automatyki budynkowej popularnie zwanej “smart home”. Rozwijany na zasadzie open-source (otwartych źródeł dostępnych na Githubie) zyskał wielu entuzjastów gromadzących się na forum.supla.org.
 
-<img src="https://github.com/jaku2019/supla_wiki/blob/main/assets/images/Supla_block_diagram.png" />
+![Supla_block_diagram](https://github.com/jaku2019/supla_wiki/assets/55255300/ab1a8acc-6c23-41c5-88af-c7e661cb013d)
 
 Elementem centralnym całego systemu jest chmura Supla Cloud dostępna pod adresem cloud.supla.org. Istnieje również opcja zainstalowania własnej instancji serwera Supli.
 
